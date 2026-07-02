@@ -35,6 +35,9 @@
   "@adonisjs/encryption": {
     "version": "*"
   },
+  "@aigcs/widget": {
+    "version": "*"
+  },
   "@aisouler/gkd_subscription": {
     "version": "*"
   },
